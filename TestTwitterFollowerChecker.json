@@ -2,7 +2,7 @@
     "$metadata": {
       "type": "TestTwitterFollowerChecker",
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/sam-noumena/iden3-schemas/main/AgeVerifier.jsonld"
+        "jsonLdContext": "https://raw.githubusercontent.com/avy-sha-intract/test-zk-schemas/main/TestTwitterFollowerChecker.jsonld"
       },
       "version": "1.2"
     },
